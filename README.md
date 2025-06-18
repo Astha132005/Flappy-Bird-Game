@@ -138,8 +138,4 @@ All sound effects used are custom or free assets from open libraries. Replace th
 
 ---
 
-```
 
-Let me know if you want a matching `requirements.txt`, GIF preview for the README, or help deploying this as a desktop executable using `PyInstaller`.
-
-```
